@@ -1,0 +1,365 @@
+{
+  "users": [
+    {
+      "id": "4ff61858-dee9-4286-9146-25e9f9d07e29",
+      "username": "admin",
+      "email": "admin034@gmail.com",
+      "password": "MoS034Admin"
+    },
+    {
+      "id": "395393ad-556f-4a44-9977-dfb70f5f76cf",
+      "username": "Wyn Wimlett",
+      "email": "wwimlett0@gmail.com",
+      "password": "cvZVReBq3"
+    },
+    {
+      "id": "b2729c04-47b8-4639-9a8d-a290b7bf1a23",
+      "username": "Cathie Andreasen",
+      "email": "candreasen1@gizmodo.com",
+      "password": "TwbJTnzwKW4"
+    },
+    {
+      "id": "c8705212-4401-4016-a586-b4c208472447",
+      "username": "Katheryn Laing",
+      "email": "klaing2@imgur.com",
+      "password": "nzdL5QzXdJOg"
+    },
+    {
+      "id": "536573ee-3594-45da-978d-3c341f4082c1",
+      "username": "Juliette Islip",
+      "email": "jislip3@usa.gov",
+      "password": "2pUjGd33"
+    },
+    {
+      "id": "625b6d6a-993a-4267-9c08-ebd637f88d16",
+      "username": "pera",
+      "email": "pera4@spotify.com",
+      "password": "Pera1111"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "productName": "Zara wrap top",
+      "brand": "Zara",
+      "category": "Bluze i majice",
+      "size": "L",
+      "description": "Koncana terakot bluza iz Zare, u retro fazonu - potpuno nova, nenosena. Na preklop i sa V-izrazom, dva neobicna velika dugmeta (ne kopca se, samo su ukras) i siroki rukavi, do ispod laktova. Materijal je vrlo prijatan i lagan - trikotaza.",
+      "price": 1700,
+      "avatar": "/Assets/Images/20200517_110210.jpg"
+    },
+    {
+      "id": 2,
+      "productName": "Svilena bluza",
+      "brand": "Promod",
+      "category": "Bluze i majice",
+      "size": "S",
+      "description": "Predivna bluzica sa boho printom poznatog francuskog brenda Promod. Lagana i leprsava...efektna u razlicitim odevnim kombinacijama. Bez rukava, camac izraz, ravan kroj. Nova je, u perfektnom stanju - bez mana! ",
+      "price": 1200,
+      "avatar": "/Assets/Images/20210714_175046.jpg"
+    },
+    {
+      "id": 3,
+      "productName": "Bluza sa karnerima",
+      "brand": "Jennifer Taylor",
+      "category": "Bluze i majice",
+      "size": "L",
+      "description": "Bluza u boji crnog vina, burgundy. Model je trenutno vrlo aktuelan. Karneri su celom duzinom sa obe bocne strane, napred i pozadi...sto joj daje elegantan zenstveni izgled. Zbog duzine se moze nositi (preko) kao tunika. Nova je. U perfektnom stanju.",
+      "price": 1400,
+      "avatar": "/Assets/Images/20210306_104907.jpg"
+    },
+    {
+      "id": 4,
+      "productName": "Crop-top sa vezom",
+      "brand": "H&M",
+      "category": "Bluze i majice",
+      "size": "M",
+      "description": "Prugasti top iz HM divided kolekcije, u kombinaciji teget i bele. Model je cropped - kraci a siri. Poseban je po floral vezu na rukavima, koji odlican kontrast prugama. Majica je kao nova, u odlicnom stanju.",
+      "price": 1000,
+      "avatar": "/Assets/Images/20210225_141840.jpg"
+    },
+    {
+      "id": 5,
+      "productName": "Bela košulja",
+      "brand": "Vero Moda",
+      "category": "Bluze i majice",
+      "size": "S",
+      "description": "Kosuljica sa kratkim puff rukavima, izuzetno lepo ukrojena da prati liniju tela. Na beloj osnovi su tanke pruge, srebrne i crne. Ima rusku kragnu i strukirana je. Vrlo lepo istice figuru. Materijal ima elastina u sebi pa je blago rastegljiva. Kosuljica je polovna ali ocuvana kao nova.",
+      "price": 1000,
+      "avatar": "/Assets/Images/20210623_120928.jpg"
+    },
+    {
+      "id": 6,
+      "productName": "Crop-top sa resama",
+      "brand": "Bershka",
+      "category": "Bluze i majice",
+      "size": "M",
+      "description": "Sivi top iz Bershke u boho fazonu, sa resama i geometrijskim prorezima sa prednje strane. Prorezi su vrlo diskretni. Materijal je prelep - lagan i odlicno pada. Mekan i barsunast kao velur. Bluza je potpuno nova. U besprekornom stanju.",
+      "price": 1000,
+      "avatar": "/Assets/Images/20200811_153906.jpg"
+    },
+    {
+      "id": 7,
+      "productName": "Vintage košulja",
+      "brand": "Barisal",
+      "category": "Bluze i majice",
+      "size": "L",
+      "description": "Leprsava kosulja, sa dugim rukavima i taslicama. Baggy, siri model. Ravan kroj. Boja je veoma lepa - jasno zuta, boja limuna (nije drecava, vise pastelna). Materijal je glatak, na dodir izuzetno prijatan i nezan. U savrsenom je stanju - bez mane.",
+      "price": 1200,
+      "avatar": "/Assets/Images/20210403_130852.jpg"
+    },
+    {
+      "id": 8,
+      "productName": "Zlatni listići",
+      "brand": "Parfois",
+      "category": "Nakit",
+      "size": "/",
+      "description": "Mindjuse u boji zlata, iz Parfois. Visece, sa sitnim cirkonima i vrlo verno oblikovanim listom. Nove su, nenosene - iz njihove proslogodisnje kolekcije. Lagane su za uho. Duzina 4.5 cm",
+      "price": 600,
+      "avatar": "/Assets/Images/20210828_164021.jpg"
+    },
+    {
+      "id": 9,
+      "productName": "Set narukvica - biseri",
+      "brand": "Six",
+      "category": "Nakit",
+      "size": "/",
+      "description": "Komplet 5 elegantnih narukvica, od nanizanih bisera. Biseri nisu pravi ali im je odlicna izrada: imaju sedefasti premaz i odsjaj kao da su pravi. Rastegljive su pa ce odgovarati svakom obimu ruke. Nove su, nenosene.",
+      "price": 700,
+      "avatar": "/Assets/Images/20210718_164142.jpg"
+    },
+    {
+      "id": 10,
+      "productName": "Biserne minđuše",
+      "brand": "Orsay",
+      "category": "Nakit",
+      "size": "/",
+      "description": "Vrlo elegantne, prefinjene, damske - prelepe mindjuse u obliku suzice. Cirkoni tj. kamencici blistaju, kristalno su cisti i divno se presijavaju.",
+      "price": 500,
+      "avatar": "/Assets/Images/20180303_110847.jpg"
+    },
+    {
+      "id": 11,
+      "productName": "Statement ogrlica",
+      "brand": "PS Fashion",
+      "category": "Nakit",
+      "size": "/",
+      "description": "Masivna ogrlica u obliku kragne. Izuzetno efekntna i atraktivna. Sastoji se od masivnog lanca u boji zlata, po kom su rasuti cirkoni, i velikog belog bisera na dnu. Divna kombinacija boja: od jasne zute i crvene, do plave i crne.Ima lancic za podesavanje duzine.",
+      "price": 1500,
+      "avatar": "/Assets/Images/20170715_121305.jpg"
+    },
+    {
+      "id": 12,
+      "productName": "Minđuše sa cirkonima",
+      "brand": "Parfois",
+      "category": "Nakit",
+      "size": "/",
+      "description": "Predivne mindjuse u boji srebra, cele optocene sitnim cirkonima i jednim velikim kamenom na dnu. Vrlo prefinjene i elegantne. Idealne su za neku svecanu priliku i modnu kombinaciju. Uzivo su jos lepse, lepo sijaju i cakle. Nisu teske za uvo.",
+      "price": 700,
+      "avatar": "/Assets/Images/20190502_193858.jpg"
+    },
+    {
+      "id": 13,
+      "productName": "Tirkizne minđuše",
+      "brand": "Six",
+      "category": "Nakit",
+      "size": "/",
+      "description": "Visece mindjuse neobicnog, kopljastog oblika. Metal je u boji starog srebra. Sredisnji deo: vrlo lepa tirkizna nijansa, koja ima sitan sedef u sebi.",
+      "price": 500,
+      "avatar": "/Assets/Images/20210724_165710.jpg"
+    },
+    {
+      "id": 14,
+      "productName": "Bangle narukvica",
+      "brand": "Accessorize's",
+      "category": "Nakit",
+      "size": "/",
+      "description": "Siroka i cvrsta narukvica od drveta. Po sebi ima izrezbaren floral motiv. U pitanju je vintage komad - kvalitet i dizajn kakav se sada tesko moze naci. Precnik otvora za ruku 7cm. Sirina  3 cm",
+      "price": 600,
+      "avatar": "/Assets/Images/20210806_125812.jpg"
+    },
+    {
+      "id": 15,
+      "productName": "Minđuše - medaljoni",
+      "brand": "Aldo",
+      "category": "Nakit",
+      "size": "/",
+      "description": "Mindjuse su u obliku medaljona, u boji starog zlata i ispunjene ljuspicama pravog sedefa koji se neverovatno presijava. Boje se prelivaju i daju fantastican efekat duge. Ozivite stil 80-tih ovim izuzetnim komadom nakita",
+      "price": 800,
+      "avatar": "/Assets/Images/20210303_111000.jpg"
+    },
+    {
+      "id": 16,
+      "productName": "PS haljina",
+      "brand": "PS",
+      "category": "Haljine",
+      "size": "M",
+      "description": "Bodycon uska haljina bez rukava, kupljena u PS Fashion-u. Potpuno nova. U besprekornom stanju. Vrlo atraktivan zebra print u kome dominira crna i teget a bela, zelena i ljubicasta su u tragovima. Zenstvena i sexy - kroj prati liniju tela. Postavljena je. Posebno je dobro ukrojena na grudima i struku, tako da istice figuru. Idealan komad garderobe za posebne i svecane prilike.",
+      "price": 3500,
+      "avatar": "/Assets/Images/20210402_143459.jpg"
+    },
+    {
+      "id": 17,
+      "productName": "Romantična haljina",
+      "brand": "Merci",
+      "category": "Haljine",
+      "size": "S",
+      "description": "Leprsava i raskosna haljina u pink, ciklama boji.Bez rukava - ima siroke bretele. U struku naglasena i nabrana lastihom. Duzina je midi, do ispod kolena. Haljina je odlicnom stanju.",
+      "price": 2000,
+      "avatar": "/Assets/Images/20210116_124143.jpg"
+    },
+    {
+      "id": 18,
+      "productName": "H&M košulja-haljina",
+      "brand": "H&M",
+      "category": "Haljine",
+      "size": "M",
+      "description": "Prelepa haljina iz HM -a u maslinasto-sivoj boji. Materijal je prirodan(viskoza), jako lepo pada i vrlo je prijatan. Model je bez rukava, kopca se celom duzinom...pozadi je malo duza nego napred. Vrlo blago strukirana - gotovo ravna, ima svoj kais za naglaseno strukiranje. Izuzetno ocuvana, bez mana i bilo kakvih tragova nosenja.",
+      "price": 2500,
+      "avatar": "/Assets/Images/20210824_162122.jpg"
+    },
+    {
+      "id": 19,
+      "productName": "Koktel haljina",
+      "brand": "Monsoon",
+      "category": "Haljine",
+      "size": "L",
+      "description": "Crvena haljina luksuznog londonskog brenda Monsoon. Model i boja su vrlo sexy,  uvek aktuelna i atraktivna kombinacija. Kroj prati telo - svuda je fantasticno ukrojena i bas istice dekolte i struk. Materijal je cist pamuk, ne providi se i po celoj povrsini ima vez (izvezena je koncem u istoj boji). Haljina je nova,u odlicnom stanju.",
+      "price": 3000,
+      "avatar": "/Assets/Images/20210904_210924132.jpg"
+    },
+    {
+      "id": 20,
+      "productName": "Clutch torbica",
+      "brand": "DJ",
+      "category": "Torbe",
+      "size": "/",
+      "description": "Mala torba u prepoznatljivom retro stilu. U osnovi je siva sa letnjim floral printom:  roze, koralni i plavi cvetovi. Po ivici ima metalnu lajsnu u boji zlata, a uz nju dolazi i tanak zlatni lancic za rame (skida se). Potpuno nova, sa etiketom. Dimenzije  26x15 cm.",
+      "price": 1300,
+      "avatar": "/Assets/Images/20210626_100744.jpg"
+    },
+    {
+      "id": 21,
+      "productName": "Lakovana tašna",
+      "brand": "Aldo",
+      "category": "Torbe",
+      "size": "/",
+      "description": "Aldo crvena torbica sa zlatnom snalom. Iako ima oblik pismo tasne , šira je i dublja pa u nju moze puno da stane. Ima kraci kais da bi se nosila oko ruke (skida se). Nosena je samo u 2-3 prilike. U odlicnom stanju - kao na slikama. Dimenzije  26x13 cm",
+      "price": 1800,
+      "avatar": "/Assets/Images/20180508_130957.jpg"
+    },
+    {
+      "id": 22,
+      "productName": "P..S.. torba sa čipkom",
+      "brand": "PS Fashion",
+      "category": "Torbe",
+      "size": "/",
+      "description": "Velika moderna torba (shopper) u nezno roze boji, sa cvrstim ruckama. Sa prednje strane ima aplikaciju od crne cipke, sa sljokicama. Duboka je, zatvara se rajfeslusom. Unutra ima dzep za telefon i jos jedan skriveni dzep. Torba je potpuno nova. U perfektnom stanju.",
+      "price": 2000,
+      "avatar": "/Assets/Images/20210326_133128.jpg"
+    },
+    {
+      "id": 23,
+      "productName": "ESPRIT kožne mokasine",
+      "brand": "Esprit",
+      "category": "Obuća",
+      "size": "38",
+      "description": "Ravne cipele, model tzv. mules / loafers. Izradjene su od 100% mekane govedje koze. Boja je plava i imaju neki sedef (glitter) koji se vrlo blago presijava pod odredjenim uglom. Potpuno su nove, nenosene - sa fabrickom etiketom, na kojoj stoji prodajna cena od 70 eura. Naznacena velicina je 38. Duzina gazista 24.5 cm",
+      "price": 5000,
+      "avatar": "/Assets/Images/20210715_171056.jpg"
+    },
+    {
+      "id": 24,
+      "productName": "ZARA papuče",
+      "brand": "Zara",
+      "category": "Obuća",
+      "size": "38",
+      "description": "Elegantne crne papuce iz Zare. Model je prelep - gaziste je napred spicasto, pozadi redjana kockasta peta. Ima dva kaisica - napred siri crni (reljefasta, kroko) i preko risa providan kaisic koji ide ukoso. Naznacena velicina je 38. Visina pete je 5 cm",
+      "price": 3000,
+      "avatar": "/Assets/Images/20210822_105332.jpg"
+    },
+    {
+      "id": 25,
+      "productName": "TIFFANY teget sako",
+      "brand": "Tiffany production",
+      "category": "Blejzeri",
+      "size": "M",
+      "description": "Pamucan sako u teget boji, kupljen u Tiffany-ju. Potpuno nov, nenosen. U savrsenom stanju. Placen dvostruko vise. Izuzetnog kvaliteta - kao i sve stvari ovog renomiranog brenda. Blejzer je lepo ukrojen, diskretno strukiran. Kopca se jednim zlatnim dugmetom (ima i jedno rezervno). Rukavi su 3/4 sa podvrnutim taslicama, cije su pruge odlican kontrast osnovnom materijalu. Sasatv materijala: 97% pamuk, 3% elastin",
+      "price": 3000,
+      "avatar": "/Assets/Images/20210325_130825041.jpg"
+    },
+    {
+      "id": 26,
+      "productName": "Dugačak sako",
+      "brand": "SP design",
+      "category": "Blejzeri",
+      "size": "L",
+      "description": "Sako u koralnoj nijansi, boji lososa - roze sa primesom crvenkaste. Model je po trenutnim trendovima: duzi i sa skrivenim naramenicama. Vrlo blago je strukiran, gotovo neprimetno. Materijal je vrlo lep i lagan, fino pada i ne guzva se. Potpuno nov sako, sa etiketom.",
+      "price": 2500,
+      "avatar": "/Assets/Images/20210619_125812987.jpg"
+    },
+    {
+      "id": 27,
+      "productName": "Blejzer od tvida",
+      "brand": "Reject",
+      "category": "Blejzeri",
+      "size": "M",
+      "description": "Blejzer u Chanel stilu, vanvremenski komad garderobe. U osnovi je bela prozeta crnim i crvenim koncem.Ivice su ukrasene tankom plisanom trakom i resama. Skrivene, diskretne naramenice i ruska kragna. Vrlo blago strukiran, skoro pa ravan kroj. Iako polovan, veoma dobro je ocuvan.",
+      "price": 3000,
+      "avatar": "/Assets/Images/20210323_144403.jpg"
+    },
+    {
+      "id": 28,
+      "productName": "Sako u krem boji",
+      "brand": "Stradivarius",
+      "category": "Blejzeri",
+      "size": "L",
+      "description": "Pamucni sako iz Stradivariusa, u poslovnom/business stilu. U nude boji: tamno krem, camel nijansi. Lepo ukrojen, strukiran. Kopcanje sa dva dugmeta. Postava na rukavima je prugasta da bi dosla do izrazaja kada se rukavi podvrnu. Materijal vrlo prijatan. Ima u sebi elastina pa je blago rastegljiv. Iako par puta nosen, u savrsenom  je stanju - bez mana.",
+      "price": 1800,
+      "avatar": "/Assets/Images/20210401_160346.jpg"
+    },
+    {
+      "id": 29,
+      "productName": "Vunena suknja",
+      "brand": "Next",
+      "category": "Suknje",
+      "size": "M",
+      "description": "Duboka suknja u boji lavande, lila. Brend je engleski NEXT.Visok struk, kopcanje pozadi. Duzina je do ispod kolena, midi. Kroj je ravan, prati liniju tela ali nije pripijena/tesna. Materijal: 100% vuna (pure new wool). Nije teska, vec lagana iako je vuna - tako da moze posluziti kako za prelazno vreme, tako i za zimu. Suknja je potpuno nova, u perfektnom stanju.",
+      "price": 1600,
+      "avatar": "/Assets/Images/20201224_140204.jpg"
+    },
+    {
+      "id": 30,
+      "productName": "Suknja na pruge",
+      "brand": "Nasello",
+      "category": "Suknje",
+      "size": "S",
+      "description": "Mornarska suknja sa kaisem od kanapa - prava letnja. Pruge kao veciti trend...teget, bela, crvena i krem boja. Ima visok pojas i falte napred. Materijal je izuzetno prijatan, ima elastina u sebi. Nova je, u besprekornom stanju.",
+      "price": 1200,
+      "avatar": "/Assets/Images/20180811_113335.jpg"
+    },
+    {
+      "productName": "Haljina od lana",
+      "brand": "Zara",
+      "category": "Haljine",
+      "size": "L",
+      "description": "Haljine bez rukava su komad koji nikad ne zastareva. Nošene uz sandale ili cipele one ispunjavaju potrebu elegantne pojave. Ova je iz Zare - u retro stilu, krojena u A. Ima i kaiš od istog materijala, koji će dodatno naglasiti struk. Kombinacija lana i pamuka izuzetno će prijati u vrelim letnjim danima. Haljina je kao nova, u besprekornom stanju.",
+      "price": 2400,
+      "avatar": "/Assets/Images/20210422_095017616.jpg",
+      "id": 31
+    },
+    {
+      "id": 32,
+      "productName": "Mona tašna sa lancem",
+      "brand": "Mona",
+      "category": "Torbe",
+      "size": "/",
+      "description": "Monina lakovana torbica u kraljevski ljubicastoj boji. Boja se uzivo jako lepo preliva i ima diskretan sedefasti odsjaj. Ima masivan zlatni lanac za nosenje oko ruke sto je cini upadljivom i efektnom. Nosena samo u dve-tri prilike - izuzetno ocuvana, kao nova. DImenzije: 30x13 cm",
+      "price": 5200,
+      "avatar": "/Assets/Images/20200910_145507.jpg"
+    }
+  ],
+  "baskets": [
+    
+  ]
+}
